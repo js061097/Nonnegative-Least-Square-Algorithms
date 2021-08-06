@@ -20,4 +20,4 @@
  &nbsp;The algorithms were tested for randomly generated matrix problems with sizes varying from 2800x2000 to 10400x6800. The computational time taken to solve the problem and the residual error of the results were compared. The computational time measured using cputime and the residual error ||Ax-b|| were measured in MATLAB were obtained as follows:
  
  ![alt text](https://github.com/js061097/Nonnegative-Least-Square-Algorithms/blob/main/Results/cputime.jpg)
- ![alt text](https://github.com/js061097/Nonnegative-Least-Square-Algorithms/blob/main/Results/RelativeNorms.jpg.jpg)
+ ![alt text](https://github.com/js061097/Nonnegative-Least-Square-Algorithms/blob/main/Results/RelativeNorms.jpg)
