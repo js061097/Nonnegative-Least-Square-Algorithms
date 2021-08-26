@@ -22,4 +22,4 @@
  ## Conclusion
   - Generally, the computational time taken to solve a large system would be in the order:</br> 
   &nbsp;&nbsp;&nbsp;Lawson & Hanson < fnnls < Quasi-Newton < Randomized.
-  - Randomized algorithm using Quasi-Newton method will produce results that come with some relative errors in comparision to the others but they solve the problems 10 times faster than the Quasi-Newton method for matrix sizes upto 10400x6800.
+  - Randomized algorithm using Quasi-Newton method will produce results that come with some relative errors in comparision (in our case, we got a maximum relative error of 3.25%) to the other algorithms but they solve the problems 10 times faster than the Quasi-Newton method for matrix sizes upto 10400x6800.
