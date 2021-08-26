@@ -20,9 +20,9 @@
  ![alt text](https://github.com/js061097/Nonnegative-Least-Square-Algorithms/blob/main/Results/RelativeNorms.jpg)
  
  
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Problem no. | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 
+--- | --- | --- | --- |--- |--- |--- |--- |--- 
+Matrix Size | 2800x2000 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 
  
  ## Conclusion
   - Generally, the computational time taken to solve a large system would be in the order:</br> 
