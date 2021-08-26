@@ -14,7 +14,7 @@
   4. <b>Random Projections:</b> [C. Boutsidis and P. Drineas, Random projections for nonnegative least squares, Linear Algebra Appl., 431 (2009), pp. 760–771.](https://www.sciencedirect.com/science/article/pii/S0024379509001633)
 
 ## Tests and Results
- &nbsp;The algorithms were tested for randomly generated matrix problems with sizes varying from 2800x2000 to 10400x6800. The computational time taken to solve the problem and the residual error of the results were compared averaged over 20 randomly generated problems. The computational time measured using cputime and the residual error ||Ax-b|| were measured in MATLAB were obtained as follows:
+ &nbsp;The algorithms were tested for randomly generated matrix problems with sizes varying from 2800x2000 to 10400x6800 using MATLAB's randi function. The computational time taken to solve the problem and the residual error of the results were compared averaged over 20 randomly generated problems. The computational time measured using cputime and the residual error ||Ax-b|| were measured in MATLAB were obtained as follows:
  
  ![alt text](https://github.com/js061097/Nonnegative-Least-Square-Algorithms/blob/main/Results/cputime.jpg)
  ![alt text](https://github.com/js061097/Nonnegative-Least-Square-Algorithms/blob/main/Results/RelativeNorms.jpg)
