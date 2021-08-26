@@ -20,7 +20,7 @@
  ![alt text](https://github.com/js061097/Nonnegative-Least-Square-Algorithms/blob/main/Results/RelativeNorms.jpg)
  
  
-Problem no. | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 
+Problem number | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 
 --- | --- | --- | --- |--- |--- |--- |--- |--- 
 Matrix Size | 2800x2000 | 3600x2400 | 4400x2800 | 5200x3400 | 6000x3600 | 7200x4800 | 8800x5600 | 10400x6800 | 
  
