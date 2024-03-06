@@ -1,6 +1,6 @@
 # Nonnegative-Least-Square-Algorithms (NNLS) 
   Contains the Lawson &amp; Hanson active set, fnnls by Bro &amp; Jong, Projected Quasi-Newton and Random projections NNLS algorithms, all implemented in MATLAB.
-  Thesis link: (https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/195814/SATHYAKUMAR-THESIS-2021.pdf?sequence=1&isAllowed=y<!---https://drive.google.com/file/d/1VfRrUy50YOgNNjRS9-6904cNzgLc7aec/view--->)
+  Thesis link: (https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/195814/SATHYAKUMAR-THESIS-2021.pdf)
 
 ## Applications of NNLS
  &nbsp;Can be used to solve any overdetermined system of equations where the solution vector is constrained to take non-negative values. &nbsp;For example, in image processing we require the pixel values of image stored as a vector to be positive.<br/>
